@@ -34,18 +34,18 @@ ul {
 }
 
 .square:focus {
-  outline: none;
+    outline: none;
 }
 
 .kbd-navigation .square:focus {
-  background: #ddd;
+    background: #ddd;
 }
 
 .game {
-  display: flex;
-  flex-direction: row;
+    display: flex;
+    flex-direction: row;
 }
 
 .game-info {
-  margin-left: 20px;
+    margin-left: 20px;
 }
